@@ -3,13 +3,13 @@
 My Ikigai: To lead and manage data-driven projects that improve lives and solve problems — especially in health, food systems, marketing and wellness — by combining empathy, strategy, and structured execution.
 
 ### Education
-MBA | USIU |(_2028_)
+MBA | USIU (_2028_)
 
 MSc. Data Science | Strathmore University (_2027_)
 
 BBSc. Financial Economics | Strathmore university (_2026_)
 
-High School Diploma | Limuru Girls School | (_2015_)
+High School Diploma | Limuru Girls School  (_2015_)
 
 ### Experience
 #### Data Analyst-Essencemediacom
